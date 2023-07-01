@@ -13,7 +13,7 @@ name                     : &name "Zhixin Chen"
 description              : &description "PhD student in Tsinghua University; Visiting student in University of Stuttgart"
 url                      : https://Zhixin_Homepage.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Zhixin_Homepage.github.io"
+repository               : "Zhixin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Zhixin_Homepage"
+  github           : "Zhixin"
   google_plus      :
   keybase          :
   instagram        :
